@@ -1,0 +1,14 @@
+{
+	"name": "webkit"
+,	"main": "index.html"
+,	"version": "0.0.1"
+,	"window":
+	{
+		"width": 1000
+	,	"height": 550
+	,	"min_width": 1000
+	,	"min_height": 500
+	,	"toolbar": true
+    ,	"frame": false
+	}
+}

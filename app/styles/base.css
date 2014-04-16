@@ -1,0 +1,9 @@
+.window-navbar {
+    min-height: 25px !important;
+}
+.window-navbar a.navbar-brand {
+    height: auto;
+}
+.window-navbar a{
+    padding: 4px 7px 4px 7px!important;
+}
