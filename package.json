@@ -1,0 +1,8 @@
+{
+  "name": "grunt-node-webkit-builder-app",
+  "description": "Builder del metodo de biseccion",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-node-webkit-builder": "latest"
+  }
+}
